@@ -20,8 +20,8 @@ class BankAccount():
         self.__account_holder_name,self.__account_number,
       self.__account_balance))
 
-account=BankAccount(account_number="9344868020",
-                    account_holder_name="Amith Babu",
+account=BankAccount(account_number="73884936354",
+                    account_holder_name="Rajasekar",
                     initial_balance=50000.0)
 
 account.display_balance()
